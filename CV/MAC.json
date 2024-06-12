@@ -391,11 +391,19 @@
         "type": "technology"
       },
       {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
         "type": "technology"
       },
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       }
     ],
