@@ -1,0 +1,404 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Varona",
+      "title": "Full Stack Developer | Photographer",
+      "description": "I'm Miguel, a passionate Frontend Developer with a proven track record in creating dynamic and scalable web applications. I specialize in leveraging cutting-edge technologies to deliver seamless user experiences.\n\n🚀 Skills:\n\nFrontend: Javascript, React, Next.js, HTML, CSS (including Tailwind & Bootsrap)\nBackend: Node.js, Express.js\nDatabase: MongoDB, MySQL\nVersion Control: Git, GitHub\n💼 Experience: With [10] years as CEO stint at Carmencita Film Lab, \"My experience also includes working as a photographer throughout my career.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/0c95d6fb-1514-4aad-9ccf-63f21ba5440c_linkedin-photo-54920.linkedin-photo-54920",
+        "alt": "24/06/12/0c95d6fb-1514-4aad-9ccf-63f21ba5440c_linkedin-photo-54920.linkedin-photo-54920"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/miguelvaronagallego"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/MigVarona"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Agencia para el Empleo de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/ae4b0e1c-77f5-46ed-85ea-2d9017185438_linkedin-photo-54920.linkedin-photo-54920",
+            "alt": "24/06/12/ae4b0e1c-77f5-46ed-85ea-2d9017185438_linkedin-photo-54920.linkedin-photo-54920"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2024-03-01",
+            "finishDate": "2024-05-31",
+            "challenges": [
+              {
+                "description": "Responsable desarrollo web Full Stack, Experiencia inmersiva para la Agencia de Empleo de Madrid"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Factoría F5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/ff248036-17b5-4454-9e15-a27a4c113540_linkedin-photo-54920.linkedin-photo-54920",
+            "alt": "24/06/12/ff248036-17b5-4454-9e15-a27a4c113540_linkedin-photo-54920.linkedin-photo-54920"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollo web Full Stack 1000 Horas",
+            "startDate": "2023-09-01",
+            "finishDate": "2024-05-31",
+            "challenges": [
+              {
+                "description": "‣ Formación práctica desarrollo web full stack + inmersivas, centrada en principios de pedagogía activa, participando en proyectos reales para empresas, desde la creación del frontend y backend, hasta la gestión completa del ciclo de vida del proyecto. HTML, CSS3, REACT, NEXTJS, JAVASCRIPT, NODE, EXPRESS, MONGODB, MYSQL, PHP, THREEJS, AFRAME, BLENDER, CYPRESS, GIT, GITHUB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EFTI Centro Internacional de Fotografía y Cine",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/54f2a25e-5d0b-4ae1-8eb6-dce5890e0310_linkedin-photo-54920.linkedin-photo-54920",
+            "alt": "24/06/12/54f2a25e-5d0b-4ae1-8eb6-dce5890e0310_linkedin-photo-54920.linkedin-photo-54920"
+          }
+        },
+        "roles": [
+          {
+            "name": "Docente Master Fotografía Fine art",
+            "startDate": "2015-01-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "- Docente Master internacional fotografía fine art\n\nMaster sobre técnicas de fotografía analógica Fine art composición, iluminación, exposición y post producción Adobe Photoshop, Lightroom.\n\nhttps://efti.es/staff/miguel-varona"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carmencita Film Lab",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/b23283df-8d5c-4468-a255-826791e5a705_linkedin-photo-54920.linkedin-photo-54920",
+            "alt": "24/06/12/b23283df-8d5c-4468-a255-826791e5a705_linkedin-photo-54920.linkedin-photo-54920"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de proyecto",
+            "startDate": "2013-07-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "- Desarrollo y implementación de negocio servicios de laboratorio fotográfico\n\n- Contratación, supervisión de personal.\n\n- Prospección comercial de clientes tanto España como ámbito Europeo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MIGUEL VARONA"
+        },
+        "roles": [
+          {
+            "name": "Freelance - Fotografía",
+            "startDate": "2010-01-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "- Fotografía de bodas de destino, Europa\n\n- Prospección de clientes Europeos a través de redes sociales.\n\n- Gestión comercial colaboradores del sector ( Wedding Planners)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fotoprix-FotoIkatz S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/e45bb640-9308-46e1-9864-2eefb63567a6_linkedin-photo-54920.linkedin-photo-54920",
+            "alt": "24/06/12/e45bb640-9308-46e1-9864-2eefb63567a6_linkedin-photo-54920.linkedin-photo-54920"
+          }
+        },
+        "roles": [
+          {
+            "name": "Supervisor",
+            "startDate": "2003-01-01",
+            "finishDate": "2009-05-31",
+            "challenges": [
+              {
+                "description": "- Supervisión de equipos en diversos laboratorios de España, fomentando la colaboración y el alto desempeño\n\n- Coordinación de operaciones entre ubicaciones geográficas para garantizar la cohesión y la consecución de objetivos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Lightroom",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Three.js",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Medio, Fotografía",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "IES Principe Felipe"
+        },
+        "finishDate": "2012-07-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo Web Full Stack + Tecnologías inmersivas 1000 Horas, Desarrollo de páginas web, contenido digital/multimedia y recursos informáticos",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Factoria F5 Desarrollo Web Full Stack"
+        },
+        "finishDate": "2024-05-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/miguelvaronagallego",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MigVarona",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "migvaronag@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "GitHub Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Hola Soy Miguel, Durante toda mi carrera me he dedicado al sector de la fotografía, sobre todo analógica, en los últimos años me he dedicado a formarme en el desarollo web, con especial atención a los detalles visuales en el Frontend, mi trabajo ideal sería un trabajo donde pudiera aplicar tanto mis conocimientos como proyectos con una alta cultura visual y artística."
+  }
+}
